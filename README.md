@@ -1,11 +1,11 @@
-### Hi there, I'm Shirley 👋
+### Hi, I'm Shirley 👋 Welcome to my GitHub repository! 
 
 - 👩🏻‍💻 I graduated from the UBC Masters of Data Science program in June 2023
 - 🧠 I have a Bachelor of Science in Neuroscience from McGill University
 - 📈 I'm currently looking for junior data science/data analyst roles
 - 🌳 I have a passion for the environment, climate change, and all things nature-related! 
 
-Welcome to my GitHub repository! 
+
 
 <!--
 **shlrley/shlrley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
