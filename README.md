@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Shirley 👋
+
+This is a work in progress 
 
 <!--
 **shlrley/shlrley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
