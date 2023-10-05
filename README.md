@@ -1,4 +1,4 @@
-### Hi, I'm Shirley 👋 Welcome to my GitHub repository! 
+### Hi, I'm Shirley 👋🏼 Welcome to my GitHub repository! 
 
 - 👩🏻‍💻 I graduated from the UBC Masters of Data Science program in June 2023
 - 🧠 I have a Bachelor of Science in Neuroscience from McGill University
