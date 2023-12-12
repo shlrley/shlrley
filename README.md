@@ -5,7 +5,7 @@
 - 📈 I'm currently looking for junior data science/data analyst roles
 - 🌳 I have a passion for the environment, climate change, and all things nature-related! 
 
-Visit my portfolio here: [shlrley.github.io/](shlrley.github.io/)
+Visit my portfolio here: [shlrley.github.io/](https://shlrley.github.io/)
 
 <!--
 **shlrley/shlrley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
